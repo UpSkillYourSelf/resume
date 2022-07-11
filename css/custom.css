@@ -1,0 +1,25 @@
+.container-backgroud {
+  background-color: grey;
+  border: 1px solid grey;
+  padding-bottom: 0.8em;
+  white-space: inherit;
+  margin: 0em 5em;
+  margin-top: 1em;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.default-font {
+  color: rgb(11, 11, 11);
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  padding: 10px;
+}
+.container {
+  display: flex;
+}
+.fixed {
+  width: 200px;
+}
+.flex-item {
+  flex-grow: 1;
+}
